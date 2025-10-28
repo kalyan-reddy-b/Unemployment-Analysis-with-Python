@@ -1,6 +1,5 @@
 # Unemployment Analysis with Python
 
-**Oasis Infobyte Internship Project** 
 
 Click on the following link to checkout the colab file.
 - [Colab](https://colab.research.google.com/drive/1vbSeH3WXXvml83Gu432SWGo9cifZ7LQf?usp=sharing)
@@ -74,5 +73,3 @@ This project not only provided valuable insights into the economic impact of the
 
 ---
 
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
